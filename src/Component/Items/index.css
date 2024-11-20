@@ -1,0 +1,30 @@
+.listItems {
+  list-style-type: none;
+  border: 2px #000000 solid;
+  width: 120%;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.btn1 {
+  height: 26px;
+  width: 80px;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-right: 5px;
+  font-size: 17px;
+}
+
+.btn2 {
+  height: 26px;
+  width: 80px;
+  font-size: 17px;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-left: 5px;
+}
+.para {
+  font-size: 22px;
+}

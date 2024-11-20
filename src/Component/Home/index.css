@@ -1,0 +1,35 @@
+.adduser {
+  font-size: 20px;
+  height: 40px;
+  width: 160px;
+  background-color: green;
+  color: white;
+  margin: 10px;
+  margin-left: 100px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.add {
+  margin-top: 14px;
+}
+.modalbtn {
+  margin-left: 10px;
+  font-size: 15px;
+  padding: 8px;
+  margin-top: 20px;
+}
+.input {
+  margin-bottom: 10px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20% 30% 30% 30%;
+}
